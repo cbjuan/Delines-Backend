@@ -64,6 +64,7 @@ WSGI_APPLICATION = 'h4gSalamanca_backend.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
 
+#Private data about database (users, URLs, passwords) and keys for production must be specified in a file called serverPrivate_settings.py
 from serverPrivate_settings import *
 
 # Internationalization
