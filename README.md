@@ -1,7 +1,7 @@
 # Delines-Backend
 Delines app backend developed during the Hack For Good Hackathon (Salamanca Edition). April 2015
 
-This backend provides an API wit 3 endpoints that allow to upload and download geolocation data (positions, routes) and info about the users. This API is consumed from Delines client app (https://github.com/charrosfera/lineas-deseo)
+This backend provides an API 3 endpoints implementations that allow to upload and download geolocation data (positions, routes) and info about the users. This API is consumed from Delines client app (https://github.com/charrosfera/lineas-deseo)
 
 Check out the 0.1 version of Delines app at http://delines.jmmerino.es
 
